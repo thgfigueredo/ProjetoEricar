@@ -74,7 +74,7 @@ Audi R8 está de volta ao Brasil .com uma personalização inédita .Aceleraçã
             <div class="card-content">
               <h3>Audi A7</h3>
               <p>
-Audi A7 é um cupê de alto nível que foi lançado em 2010. Os motores V6 são top de linha  tem um sistema de suspensão a ar, para dar tanto conforto e suavidade
+Audi A7 é um cupê de alto nível que foi lançado em 2010. Os motores V6 são top de linha  tem um sistema de suspensão a ar, para dar tanto conforto e suavidade.
               </p>
               <a style="width:100% ; text-align: center;" href="https://api.whatsapp.com/send?phone=5511986076606&text=Bem%20Vindo%20a%20Ericar!%20O%20CarroPerfeito%20Para%20Voc%C3%AA!"><button>Eu quero esse!</button></a> 
             </div>
@@ -94,7 +94,7 @@ Um SUV para toda a família – a segunda geração do Audi Q3 possui uma presen
             <div class="card-content">
               <h3>Audi Q7</h3>
               <p>
-Um veículo equipado com tecnologias e uma inteligência , que proporciona uma experiência única e possui um design intenso, – este é o Audi Q7!
+Um veículo equipado com tecnologias e uma inteligência , que proporciona uma experiência única e possui um design intenso, – este é o Audi Q7.
               </p>
               <a style="width:100% ; text-align: center;" href="https://api.whatsapp.com/send?phone=5511986076606&text=Bem%20Vindo%20a%20Ericar!%20O%20CarroPerfeito%20Para%20Voc%C3%AA!"><button>Eu quero esse!</button></a> 
             </div>
@@ -104,7 +104,7 @@ Um veículo equipado com tecnologias e uma inteligência , que proporciona uma e
             <div class="card-content">
               <h3>Audi A4</h3>
               <p>
-Com um visual frontal preciso e uma traseira emblemática, O Audi A4 Sedan. Uma declaração de esportividade e Diversão garantida com uma gama de motores poderosos completam o pacote.:
+Com um visual frontal preciso e uma traseira emblemática, O Audi A4 Sedan. Uma declaração de esportividade e Diversão garantida com uma gama de motores poderosos completam o pacote.
               </p>
               <a style="width:100% ; text-align: center;" href="https://api.whatsapp.com/send?phone=5511986076606&text=Bem%20Vindo%20a%20Ericar!%20O%20CarroPerfeito%20Para%20Voc%C3%AA!"><button>Eu quero esse!</button></a> 
             </div>
@@ -114,7 +114,7 @@ Com um visual frontal preciso e uma traseira emblemática, O Audi A4 Sedan. Uma 
             <div class="card-content">
               <h3>Audi RS7</h3>
               <p>
-                O Audi RS7 2022 é um hatchback de super alto desempenho que é tão audacioso quanto luxuoso. A suspensão do RS7 pode ser aprimorada com o Dynamic Ride Control, Intrigado como algo tão sexy e poderoso
+                O Audi RS7 2022 é um hatchback de super alto desempenho que é tão audacioso quanto luxuoso. A suspensão do RS7 pode ser aprimorada com o Dynamic Ride Control, Intrigado como algo tão sexy e poderoso.
               </p>
               <a style="width:100% ; text-align: center;" href="https://api.whatsapp.com/send?phone=5511986076606&text=Bem%20Vindo%20a%20Ericar!%20O%20CarroPerfeito%20Para%20Voc%C3%AA!"><button>Eu quero esse!</button></a> 
             </div>
@@ -124,7 +124,7 @@ Com um visual frontal preciso e uma traseira emblemática, O Audi A4 Sedan. Uma 
             <div class="card-content">
               <h3>Audi RS4</h3>
               <p>
-                Poucos carros oferecem a capacidade arredondada como a do Audi RS4, O RS4 usa grande potência, 450 cv para ser exato, com tração nas quatro rodas para explorá-lo. Pense em propriedades rápidas e é impossível não pensar em Audi e seu RS4
+                Poucos carros oferecem a capacidade arredondada como a do Audi RS4, O RS4 usa grande potência, 450 cv para ser exato, com tração nas quatro rodas para explorá-lo. Pense em propriedades rápidas e é impossível não pensar em Audi e seu RS4.
               </p>
               <a style="width:100% ; text-align: center;" href="https://api.whatsapp.com/send?phone=5511986076606&text=Bem%20Vindo%20a%20Ericar!%20O%20CarroPerfeito%20Para%20Voc%C3%AA!"><button>Eu quero esse!</button></a> 
             </div>
