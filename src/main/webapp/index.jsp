@@ -66,7 +66,7 @@ Audi e-tron Sportback impressiona por sua elegância esportiva. sistema de traç
               <p>
 Audi R8 está de volta ao Brasil .com uma personalização inédita .Aceleração 3.2 s De 0 a 100 km/h Audi R8. Perseguido nas pistas. Desejado nas ruas.  
               </p>
-              <a style="width:100% ; text-align: center;" href="login.html"><button>Eu quero esse!</button></a> 
+              <a style="width:100% ; text-align: center;" href="https://api.whatsapp.com/send?phone=5511986076606&text=Bem%20Vindo%20a%20Ericar!%20O%20CarroPerfeito%20Para%20Voc%C3%AA!"><button>Eu quero esse!</button></a> 
             </div>
           </div>
           <div class="card-item">
@@ -76,7 +76,7 @@ Audi R8 está de volta ao Brasil .com uma personalização inédita .Aceleraçã
               <p>
 Audi A7 é um cupê de alto nível que foi lançado em 2010. Os motores V6 são top de linha  tem um sistema de suspensão a ar, para dar tanto conforto e suavidade
               </p>
-              <a style="width:100% ; text-align: center;" href="login.html"><button>Eu quero esse!</button></a> 
+              <a style="width:100% ; text-align: center;" href="https://api.whatsapp.com/send?phone=5511986076606&text=Bem%20Vindo%20a%20Ericar!%20O%20CarroPerfeito%20Para%20Voc%C3%AA!"><button>Eu quero esse!</button></a> 
             </div>
           </div>
           <div class="card-item">
@@ -86,7 +86,7 @@ Audi A7 é um cupê de alto nível que foi lançado em 2010. Os motores V6 são 
               <p>
 Um SUV para toda a família – a segunda geração do Audi Q3 possui uma presença imponente, Com seu design dinâmico, o Audi Q3 exala o estilo de vida urbano.
               </p>
-              <a style="width:100% ; text-align: center;" href="login.html"><button>Eu quero esse!</button></a> 
+              <a style="width:100% ; text-align: center;" href="https://api.whatsapp.com/send?phone=5511986076606&text=Bem%20Vindo%20a%20Ericar!%20O%20CarroPerfeito%20Para%20Voc%C3%AA!"><button>Eu quero esse!</button></a> 
             </div>
           </div>
           <div class="card-item">
@@ -96,7 +96,7 @@ Um SUV para toda a família – a segunda geração do Audi Q3 possui uma presen
               <p>
 Um veículo equipado com tecnologias e uma inteligência , que proporciona uma experiência única e possui um design intenso, – este é o Audi Q7!
               </p>
-              <a style="width:100% ; text-align: center;" href="login.html"><button>Eu quero esse!</button></a> 
+              <a style="width:100% ; text-align: center;" href="https://api.whatsapp.com/send?phone=5511986076606&text=Bem%20Vindo%20a%20Ericar!%20O%20CarroPerfeito%20Para%20Voc%C3%AA!"><button>Eu quero esse!</button></a> 
             </div>
           </div>
           <div class="card-item">
@@ -106,7 +106,7 @@ Um veículo equipado com tecnologias e uma inteligência , que proporciona uma e
               <p>
 Com um visual frontal preciso e uma traseira emblemática, O Audi A4 Sedan. Uma declaração de esportividade e Diversão garantida com uma gama de motores poderosos completam o pacote.:
               </p>
-              <a style="width:100% ; text-align: center;" href="login.html"><button>Eu quero esse!</button></a> 
+              <a style="width:100% ; text-align: center;" href="https://api.whatsapp.com/send?phone=5511986076606&text=Bem%20Vindo%20a%20Ericar!%20O%20CarroPerfeito%20Para%20Voc%C3%AA!"><button>Eu quero esse!</button></a> 
             </div>
           </div>
           <div class="card-item">
@@ -116,7 +116,7 @@ Com um visual frontal preciso e uma traseira emblemática, O Audi A4 Sedan. Uma 
               <p>
                 O Audi RS7 2022 é um hatchback de super alto desempenho que é tão audacioso quanto luxuoso. A suspensão do RS7 pode ser aprimorada com o Dynamic Ride Control, Intrigado como algo tão sexy e poderoso
               </p>
-              <a style="width:100% ; text-align: center;" href="login.html"><button>Eu quero esse!</button></a> 
+              <a style="width:100% ; text-align: center;" href="https://api.whatsapp.com/send?phone=5511986076606&text=Bem%20Vindo%20a%20Ericar!%20O%20CarroPerfeito%20Para%20Voc%C3%AA!"><button>Eu quero esse!</button></a> 
             </div>
           </div>
           <div class="card-item">
@@ -126,7 +126,7 @@ Com um visual frontal preciso e uma traseira emblemática, O Audi A4 Sedan. Uma 
               <p>
                 Poucos carros oferecem a capacidade arredondada como a do Audi RS4, O RS4 usa grande potência, 450 cv para ser exato, com tração nas quatro rodas para explorá-lo. Pense em propriedades rápidas e é impossível não pensar em Audi e seu RS4
               </p>
-              <a style="width:100% ; text-align: center;" href="login.html"><button>Eu quero esse!</button></a> 
+              <a style="width:100% ; text-align: center;" href="https://api.whatsapp.com/send?phone=5511986076606&text=Bem%20Vindo%20a%20Ericar!%20O%20CarroPerfeito%20Para%20Voc%C3%AA!"><button>Eu quero esse!</button></a> 
             </div>
           </div>
           <div class="card-item">
@@ -137,7 +137,7 @@ Com um visual frontal preciso e uma traseira emblemática, O Audi A4 Sedan. Uma 
 
                 O novo Audi Q5 combina a robustez de um SUV de um Audi com uma alta usabilidade no dia a dia. Combinando tamanho, desempenho e funcionalidade. Audi Q5 tem recursos fáceis de operar, podendo enfrentar desafios diários com segurança.
               </p>
-              <a style="width:100% ; text-align: center;" href="login.html"><button>Eu quero esse!</button></a> 
+              <a style="width:100% ; text-align: center;" href="https://api.whatsapp.com/send?phone=5511986076606&text=Bem%20Vindo%20a%20Ericar!%20O%20CarroPerfeito%20Para%20Voc%C3%AA!"><button>Eu quero esse!</button></a> 
             </div>
           </div>
         </div>
@@ -175,28 +175,28 @@ Com um visual frontal preciso e uma traseira emblemática, O Audi A4 Sedan. Uma 
             <img src="images/feature-planet.png" alt="Feature" />
             <div class="feature-text-content">
               <h3>Vendas</h3>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Aqui você tem acesso a condições exclusivas e um time de consultores especializados.</p>
             </div>
           </div>
           <div class="feature-card-item">
             <img src="images/feature-planet.png" alt="Feature" />
             <div class="feature-text-content">
               <h3>Financiamento</h3>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Conheça as soluções de financiamento da EriCar Serviços Financeiros.</p>
             </div>
           </div>
           <div class="feature-card-item">
             <img src="images/feature-planet.png" alt="Feature" />
             <div class="feature-text-content">
               <h3>Locação</h3>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>O aluguel conta com tarifas diferenciadas, incluindo proteção do carro, revisões periódicas.</p>
             </div>
           </div>
           <div class="feature-card-item">
             <img src="images/feature-planet.png" alt="Feature" />
             <div class="feature-text-content">
               <h3>Seguros</h3>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Conforto e tranquilidade sempre na bagagem. Vem com a gente.</p>
             </div>
           </div>
           
